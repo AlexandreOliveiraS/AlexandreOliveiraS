@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Alexadre Oliveira! 👋
 
-- 🔭 Estou Trabalhando com SQL Server.
 - 🌱 Estudando HTML|CSS|JS
 -  JAVA|ANGULAR|SPRINGBOOT...
 - 😄 Pronouns:ELE|DELE
